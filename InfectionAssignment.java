@@ -4,7 +4,7 @@ import java.util.Random;
 import java.lang.Math;
 import java.io.*;
 
-
+//comment
 public class InfectionAssignment {
 	/**
 	 * erases the contents of the file
